@@ -120,15 +120,6 @@
     width: 24px;
     margin: 3px 0;
 }
-.btns{
-    padding: 9px 14px;
-    border-radius: 20px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    margin: 0 3px;
-    cursor: pointer;
-}
 .btn-sm{
     font-size: 14px;
     padding: 10px 19px;
@@ -188,7 +179,7 @@
 .cross{
     margin-left: 165px;
 }
-@media (max-width:1530px){
+@media (max-width:700px){
    /* .sidebar{
        transform: translate(-443px,0px);
        position: absolute;
